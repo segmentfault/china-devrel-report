@@ -16,7 +16,7 @@ During the process of compiling this report, numerous front-line DevRel practiti
 
 Contributions are always welcome! Whether you have questions, hold different opinions, wish to add new chapters or content, contribute your case studies, or even just offer moral support and encouragement, we appreciate your involvement.
 
-## Contents
+## 🗂️ Contents
 to be continued
 
 ## 🙋‍♀️ Contribute
@@ -25,7 +25,7 @@ to be continued
 
 Please open a new issue or PR to contribute to this repo and help us improve the content!
 
-## 👩‍⚖️ License
+## 🧑‍⚖️ License
 
 所有代码采用 Apache 2.0 进行许可，所有文档采用 CC-BY-4.0 进行许可
 
