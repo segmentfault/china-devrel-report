@@ -2,7 +2,7 @@
 
 在本年度的问卷调研中，我们邀请受访者写下他们心目中在 DevRel 领域取得较突出成绩的企业/组织名称，去除掉 “暂无” 等无效答案，共收到反馈 878 条。按照受访者提及公司的名称及频次，我们制作词云如下：
 
-![案例企业词云.png](https://segmentfault.com/img/bVdaOlP)
+![企业词云.png](https://segmentfault.com/img/bVdaOEa)
 
 其中，被提及次数最多的企业分别为：Google（含 Google Cloud）被提及 119 次、PingCAP（含 TiDB）被提及 105 次、思否被提及 98 次、华为（含华为云、鸿蒙、华为开发者联盟）被提及 93 次、亚马逊云科技被提及 56 次、Apple 被提及 49 次、Microsoft 被提及 49 次、阿里巴巴（含阿里云）被提及 42 次、腾讯（含腾讯云）被提及 36 次、百度（含百度云、百度飞桨、Apollo）和蚂蚁集团（含 AntDesign、蚂蚁开源、SOFA）被提及 31 次。
 
