@@ -21,15 +21,15 @@ This research is designed to offer clarity and direction for practitioners, aidi
 1. 开发者关系综述
 
 2. 不同类型组织构建开发者关系的背景和目的
-  2.1 云服务、开发者工具、基础软件提供商： 开发者是用户和客户
-  2.2 开源软件提供商： 开发者是贡献者、用户和潜在客户
-  2.3 Open Ecosystems Platform: 开发者是生态构建者
-  2.4 泛科技公司：开发者是潜在雇员
+	1. 云服务、开发者工具、基础软件提供商： 开发者是用户和客户
+	2. 开源软件提供商： 开发者是贡献者、用户和潜在客户
+	3. Open Ecosystems Platform: 开发者是生态构建者
+	4. 泛科技公司：开发者是潜在雇员
 
 3. 开发者关系及相关名词概念
-  3.1 开发者关系 （DevRel） 与开发者体验 （Developer Experience， DX）
-  3.2 开发者关系 （DevRel） 与开发者社区 （Developer Community）
-  3.3 开发者关系 （DevRel） 与开发者生态 （Developer Ecosystem）
+	1. 开发者关系 （DevRel） 与开发者体验 （Developer Experience, DX）
+	2. 开发者关系 （DevRel） 与开发者社区 （Developer Community）
+	3. 开发者关系 （DevRel） 与开发者生态 （Developer Ecosystem）
 
 ### 第三部分 开发者关系常设岗位说明书及从业人员能力模型
 1. 开发者布道师 （及技术内容方向）
