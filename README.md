@@ -17,7 +17,7 @@ During the process of compiling this report, numerous front-line DevRel practiti
 Contributions are always welcome! Whether you have questions, hold different opinions, wish to add new chapters or content, contribute your case studies, or even just offer moral support and encouragement, we appreciate your involvement.
 
 ## 🗂️ Contents
-to be continued
+[China DevRel Report 2023](https://github.com/segmentfault/china-devrel-report/tree/main/china-devrel-report-23)
 
 ## 🙋‍♀️ Contribute
 
