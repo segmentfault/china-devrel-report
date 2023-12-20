@@ -119,6 +119,4 @@ This research is designed to offer clarity and direction for practitioners, aidi
 	2. 商业化探索： DevRel 助力企业实现 SLG + PLG 策略
 	3. 扬帆出海：全球化的产品 + 本土化的社区
 
-### 第六部分 署名与致谢
-1. 编委会成员
-2. 致谢
+### 第六部分 首批贡献者名单
