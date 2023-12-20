@@ -4,9 +4,9 @@
 
 **主笔：**
 
-江波，SegmentFault 思否 COO，Dev.Together 开发者生态峰会发起人
-王舜禹，SegmentFault 思否资深技术编辑
-朱娅迪，SegmentFault 思否资深社区运营专家
+- 江波，SegmentFault 思否 COO，Dev.Together 开发者生态峰会发起人
+- 王舜禹，SegmentFault 思否资深技术编辑
+- 朱娅迪，SegmentFault 思否资深社区运营专家
 
 **策划（按姓氏首字母排序）：**
 
