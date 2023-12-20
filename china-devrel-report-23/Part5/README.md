@@ -11,42 +11,42 @@
 在接下来的内容中，我们采访并撰写了来自以上部分企业（PingCAP、SegmentFault 思否、华为、亚马逊云科技、蚂蚁集团）的 DevRel 精选案例，内容涵盖企业开源战略、软件出海与全球社区发展、开发者中心建设、开发者圈层运营、开发者活动组织等多个方面。
 
 ## 目录索引
-1. [SegmentFault 如何通过黑客马拉松赋能企业开发者生态？](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/part5/case1-sf-hackathon.md)
+1. [SegmentFault 如何通过黑客马拉松赋能企业开发者生态？](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case1-sf-hackathon.md)
 	1. 黑客马拉松的不同类型与生态价值
 	1. 如何举办一场高质量的黑客马拉松
 
-1. [打造用户自治的知识型开发者社区 SegmentFault 思否](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/part5/case2-sf-qacommunity.md)
+1. [打造用户自治的知识型开发者社区 SegmentFault 思否](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case2-sf-qacommunity.md)
 	1. 思否社区的声望值： 用户社区贡献的衡量标准
 	1. 思否社区的用户权利： 高声望用户参与社区管理
 	1. 思否社区的徽章系统： 严肃知识型社区的彩蛋
 	1. 声望值 + 用户权利 = 类开源社区的用户成长体系
 
-2. [华为云自主化流转的开发者圈层运营](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/part5/case3-HC-operations.md)
+1. [华为云自主化流转的开发者圈层运营](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case3-HC-operations.md)
 	1. 华为云流转的开发者圈层设计
 	1. 华为云开发者圈层运营策略
 	1. 华为云开发者圈层运营成效与未来计划
 
-2. [科技领导者社区 TGO 鲲鹏会的运营之道](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/part5/case4-tgo.md)
+1. [科技领导者社区 TGO 鲲鹏会的运营之道](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case4-tgo.md)
 	1. TGO 鲲鹏会的历史与现状
 	1. TGO 鲲鹏会的社区治理
 
-2. [昇腾：“以赛促兴”’，推动开发者教育](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/part5/case5-HW-ascend.md)
+1. [昇腾：“以赛促兴”’，推动开发者教育](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case5-HW-ascend.md)
 	1. 昇腾AI “学练-训-赛”全周期赋能开发者成长
 	1. 昇腾AI 创新大赛的赛事设计
 	1. 昇腾AI 的“以赛促兴”成果
 
-2. [蚂蚁集团 OSPO:让开源成为企业技术增长新动力](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/part5/case6-ant-ospo.md)
+1. [蚂蚁集团 OSPO:让开源成为企业技术增长新动力](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case6-ant-ospo.md)
 	1. 蚂蚁集团开源办公室的成立与发展
 	1. 蚂蚁集团开源办公室的探索与实践
 	1. 蚂蚁集团开源办公室的工作成效
 	1. 蚂蚁开源的未来展望
 
-2. [全球云计算领导者亚马逊云科技的本土化开发者社区建设](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/part5/case7-aws-communitybuilding.md)
+1. [全球云计算领导者亚马逊云科技的本土化开发者社区建设](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case7-aws-communitybuilding.md)
 	1. 亚马逊云科技中文开发者社区的机遇与挑战
 	1. 亚马逊云科技开发者社区官网发展策略
 	1. 亚马逊云科技开发者社区官网建设成果
 
-2. [社区驱动，构筑 PingCAP 的全球开源生态与商业增长](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/part5/case8-tidb-globalization.md)
+1. [社区驱动，构筑 PingCAP 的全球开源生态与商业增长](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case8-tidb-globalization.md)
 	1. 开源社区成功： TiDB 增长飞轮
 	1. 商业化探索： DevRel 助力企业实现 SLG + PLG 策略
 	1. 扬帆出海：全球化的产品 + 本土化的社区
