@@ -7,7 +7,7 @@
 我们将从岗位概述、关键目标、关键职责、技能和能力、协作关系等方面剖析这三个岗位的能力模型。
 
 
-![开发者关系常设岗位说明书及从业人员能力模型.png](https://segmentfault.com/img/bVdaOot)
+![开发者关系常设岗位说明书及从业人员能力模型](../attachments/devrel_competency_model.jpg)
 
 
 ## 1. 开发者布道师（及技术内容方向）
