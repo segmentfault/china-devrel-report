@@ -21,12 +21,13 @@ Contributions are always welcome! Whether you have questions, hold different opi
 
 ## 🙋‍♀️ Contribute
 
-欢迎通过新建一个 issue 或 PR 来参与贡献，并帮助我们不断完善这个内容！
+欢迎通过新建一个 issue 或 PR 来参与贡献，并帮助我们不断完善这个内容！您同意您的贡献将根据 CC-BY-4.0 许可证进行授权。
 
 Please open a new issue or PR to contribute to this repo and help us improve the content!
+By contributing to this project, you agree that your contributions will be licensed under the CC-BY-4.0 license.
 
 ## 🧑‍⚖️ License
 
-所有代码采用 Apache 2.0 进行许可，所有文档采用 CC-BY-4.0 进行许可
+所有代码采用 Apache 2.0 进行许可，所有文档采用 [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/) 进行许可
 
-All code is offered under the Apache 2.0 and documentation is offered under the Creative Commons Attribution 4.0 International License.
+All code is offered under the Apache 2.0 and documentation is offered under the  [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).

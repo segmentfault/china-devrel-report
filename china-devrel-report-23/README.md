@@ -15,9 +15,9 @@ Concurrently, there's a noticeable rise in companies that position developers as
 This research is designed to offer clarity and direction for practitioners, aiding them in setting precise work objectives and achieving professional growth. It also serves as a valuable guide for business leaders to navigate the evolving landscape of developer-centric business development. Ultimately, our goal is to motivate more companies to actively engage in building a developer ecosystem, fostering high-quality business growth through a robust and sustainable community.
 
 ## Contents
-### 第一部分 引言
+### [第一部分 引言](Part1/README.md)
 
-### 第二部分 定义开发者关系
+### [第二部分 定义开发者关系](Part2/README.md)
 1. 开发者关系综述
 
 2. 不同类型组织构建开发者关系的背景和目的
@@ -31,12 +31,12 @@ This research is designed to offer clarity and direction for practitioners, aidi
 	2. 开发者关系 （DevRel） 与开发者社区 （Developer Community）
 	3. 开发者关系 （DevRel） 与开发者生态 （Developer Ecosystem）
 
-### 第三部分 开发者关系常设岗位说明书及从业人员能力模型
+### [第三部分 开发者关系常设岗位说明书及从业人员能力模型](Part3/README.md)
 1. 开发者布道师 （及技术内容方向）
 2. 开发者社区经理 （及开发者运营方向）
 3. 开发者市场经理
 
-### 第四部分 中国开发者关系从业者现状
+### [第四部分 中国开发者关系从业者现状](Part4/README.md)
 1. 简介
 	1. 调研背景与目标
 	2. 研究方法
@@ -78,7 +78,7 @@ This research is designed to offer clarity and direction for practitioners, aidi
 	4. 受访者对于未来两年职业发展的规划
 	5. 受访者职位变动频次及原因
 
-### 第五部分 中国开发者关系案例集
+### [第五部分 中国开发者关系案例集](Part5/README.md)
 1. SegmentFault 如何通过黑客马拉松赋能企业开发者生态？
 	1. 黑客马拉松的不同类型与生态价值
 	2. 如何举办一场高质量的黑客马拉松
@@ -119,6 +119,4 @@ This research is designed to offer clarity and direction for practitioners, aidi
 	2. 商业化探索： DevRel 助力企业实现 SLG + PLG 策略
 	3. 扬帆出海：全球化的产品 + 本土化的社区
 
-### 第六部分 署名与致谢
-1. 编委会成员
-2. 致谢
+### [第六部分 首批贡献者名单](Part6/README.md)
