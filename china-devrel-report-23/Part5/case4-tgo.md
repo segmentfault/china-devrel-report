@@ -56,7 +56,7 @@ TGO 鲲鹏会的典型活动包括：
 6. **鲲鹏说直播活动**
    定期邀请学员进行连线直播，围绕直播嘉宾学员的领域展开话题，向大家介绍相关领域信息，传播学员个人品牌和价值。
 
-![TGO.png](https://segmentfault.com/img/bVdaOpC)
+![TGO](../attachments/gtlc_tgo.jpg)
 
 #### 运营团队
 
