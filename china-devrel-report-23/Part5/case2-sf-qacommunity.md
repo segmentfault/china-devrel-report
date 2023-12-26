@@ -71,7 +71,7 @@ SegmentFault 思否定制了社区的各项规则和准则，将权利按影响�
   - 通过投票关闭不符合要求的问题等。
   
 
-![声望权利内容获赞.png](https://segmentfault.com/img/bVdaOov)
+![声望权利内容获赞](../attachments/reputation_privileges_content_likes_relationship.jpg)
 
 通过以上方式，内容经过“众审中心”车间加工后质量有了明显提升，社区氛围也有了改善。目前，SegmentFault 思否社区中已经有 3,000 余位用户加入了众审中心的日常内容审核和争议内容裁定并获得相关勋章奖励。
 
@@ -85,17 +85,17 @@ SegmentFault 思否定制了社区的各项规则和准则，将权利按影响�
 
 - 增加用户互动和竞争性：徽章为用户之间创建了一种竞争和互动的环境。用户可以通过获取更多徽章来展示自己的能力和经验，并与其他用户进行比较和竞争。这种互动和竞争能够增加用户的参与度和活跃度，进而促进社区的成长和发展。
 
-![社区徽章.png](https://segmentfault.com/img/bVdaOox)
+![社区徽章](../attachments/segmentfault_badge_system_overview.jpg)
 
 徽章的存在建立了一种竞争性和互动性的环境，徽章系统可以激发用户的积极性，鼓励他们回答问题、提问、编辑答案等参与行为。徽章的获得需要一定的努力和贡献，用户为了获得会下意识行使自己的社区权利。这样可以提高用户的参与度和活跃度，并树立他们在社区中的可信度和声望。
 
-![十周年老用户晒徽章.png](https://segmentfault.com/img/bVdaOpa)
+![十周年老用户晒徽章](../attachments/special_commemorative_badge.jpg)
 
 ## 声望值+用户权利 = 类开源社区的用户成长体系
 
 声望、权利和徽章是 SegmentFault 思否社区运作的核心机制，在社区中的作用被广泛认可和接受，这对于以内容为核心的开发者社区、论坛而言具备一定的借鉴意义。由 SegmentFault 思否开源并捐赠到 Apache 软件基金会的问答软件 Answer 在功能设计上也融入了这部分的思想，是企业或组织构建其线上社区、Help Centre、资源中心的理想工具。
 
-![类开源用户成长体系.png](https://segmentfault.com/img/bVdaOpg)
+![类开源用户成长体系](../attachments/segmentfault_open_source_operations_strategy.jpg)
 
 此前，SegmentFault 思否 COO 江波也曾在 ApacheCon Asia 的演讲中将这一体系与开源社区中的用户成长体系做对比 —— 从用户到贡献者，开发者通过社区贡献不断积累社区声望拥有更多权限，进入到项目的管理委员会（在开源社区）或解锁众审中心的高级管理权限（在 SegmentFault 思否），这其中的精髓是贯通的。因此我们也认为，这一案例对于非内容型的社区运营（如用户社群、开源社区等）也具备参考价值。
 
