@@ -17,7 +17,7 @@ During the process of compiling this report, numerous front-line DevRel practiti
 Contributions are always welcome! Whether you have questions, hold different opinions, wish to add new chapters or content, contribute your case studies, or even just offer moral support and encouragement, we appreciate your involvement.
 
 ## 🗂️ Contents
-[China DevRel Report 2023日本語版]([https://github.com/segmentfault/china-devrel-report/tree/main/china-devrel-report-23](https://github.com/Nico-Tech-Shenzhen/china-devrel-report2023-jp/tree/main/china-devrel-report-23))
+[China DevRel Report 2023日本語版](https://github.com/Nico-Tech-Shenzhen/china-devrel-report2023-jp/tree/main/china-devrel-report-23)
 
 ## 🙋‍♀️ Contribute
 
