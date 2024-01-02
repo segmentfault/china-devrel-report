@@ -1,52 +1,52 @@
-# Ⅴ. 中国开发者关系案例集
+# Ⅴ. 中国デベロッパー・リレーションズ・ケースブック
 
-在本年度的问卷调研中，我们邀请受访者写下他们心目中在 DevRel 领域取得较突出成绩的企业/组织名称，去除掉 “暂无” 等无效答案，共收到反馈 878 条。按照受访者提及公司的名称及频次，我们制作词云如下：
+今回のアンケートでは、DevRel分野で顕著な功績を残した企業・団体について、「今のところない」等の無効回答を除き、回答者の頭の中にある企業・団体名を記入してもらい、合計878件の回答を得た。 回答者が挙げた企業名と頻度に応じて、以下のようなワードクラウドを作成した：
 
 ![企业词云](../attachments/respondents_mentioned_companies_frequency.jpg)
 
-其中，被提及次数最多的企业分别为：Google（含 Google Cloud）被提及 119 次、PingCAP（含 TiDB）被提及 105 次、思否被提及 98 次、华为（含华为云、鸿蒙、华为开发者联盟）被提及 93 次、亚马逊云科技被提及 56 次、Apple 被提及 49 次、Microsoft 被提及 49 次、阿里巴巴（含阿里云）被提及 42 次、腾讯（含腾讯云）被提及 36 次、百度（含百度云、百度飞桨、Apollo）和蚂蚁集团（含 AntDesign、蚂蚁开源、SOFA）被提及 31 次。
+その中で、最も言及された企業は、Google（Google Cloudを含む）が119回、PingCAP（TiDBを含む）が105回、SiNoが98回、Huawei（Huawei Cloud、Hongmeng、Huawei Developer Allianceを含む）が93回、Amazon Cloud Technologyが56回、Appleが49回であった、 マイクロソフトは49回、アリババ（阿里雲を含む）は42回、テンセント（テンセントクラウドを含む）は36回、バイドゥ（バイドゥクラウド、バイドゥフライングパドル、アポロを含む）とアントグループ（アントデザイン、アントオープンソース、SOFAを含む）は31回言及された。
 
-初创公司中，PingCAP、JinaAI、飞轮科技、ONES 等公司的表现亮眼。
+新興企業では、PingCAP、JinaAI、Flywheel Technology、ONESが輝いた。
 
-在接下来的内容中，我们采访并撰写了来自以上部分企业（PingCAP、SegmentFault 思否、华为、亚马逊云科技、蚂蚁集团）的 DevRel 精选案例，内容涵盖企业开源战略、软件出海与全球社区发展、开发者中心建设、开发者圈层运营、开发者活动组织等多个方面。
+以下のコンテンツでは、上記企業の一部（PingCAP、SegmentFault、Huawei、Amazon Cloud Technology、Ant Group）から、企業のオープンソース戦略、ソフトウェアの海外展開やグローバルコミュニティの構築、開発者センターの構築、開発者サークルの運営、開発者イベントの開催など、様々な側面からDevRelが厳選した事例を取材・執筆した。
 
 ## 目录索引
-1. [SegmentFault 如何通过黑客马拉松赋能企业开发者生态？](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case1-sf-hackathon.md)
-	1. 黑客马拉松的不同类型与生态价值
-	1. 如何举办一场高质量的黑客马拉松
+1. [SegmentFaultはどのようにハッカソンを通じて企業の開発者エコシステムを強化するか？](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case1-sf-hackathon.md)
+	1. ハッカソンの種類と生態学的価値
+	1. 質の高いハッカソンを開催する方法
 
-1. [打造用户自治的知识型开发者社区 SegmentFault 思否](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case2-sf-qacommunity.md)
-	1. 思否社区的声望值： 用户社区贡献的衡量标准
-	1. 思否社区的用户权利： 高声望用户参与社区管理
-	1. 思否社区的徽章系统： 严肃知识型社区的彩蛋
-	1. 声望值 + 用户权利 = 类开源社区的用户成长体系
+1. [ユーザー自律型の知識ベース開発者コミュニティを作る SegmentFault](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case2-sf-qacommunity.md)
+	1. SegmentFaultコミュニティの威信：ユーザーコミュニティの貢献度を測る
+	1. SegmentFaultコミュニティ利用者の権利: 評判の高い利用者がコミュニティ運営に参加する。
+	1. SegmentFaultコミュニティのバッジシステム：真面目な知識ベースのコミュニティのための卵。
+	1. プレステージ＋ユーザーの権利＝オープンソース的コミュニティのユーザー成長システム
 
-1. [华为云自主化流转的开发者圈层运营](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case3-HC-operations.md)
-	1. 华为云流转的开发者圈层设计
-	1. 华为云开发者圈层运营策略
-	1. 华为云开发者圈层运营成效与未来计划
+1. [ファーウェイ・クラウド自律ストリーミング・デベロッパー・サークルオペレーションズ](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case3-HC-operations.md)
+	1. ファーウェイクラウドストリーミングの開発者サークル設計
+	1. ファーウェイクラウド開発者サークル運営戦略
+	1. ファーウェイクラウド開発者サークル運営の効果と今後の計画
 
-1. [科技领导者社区 TGO 鲲鹏会的运营之道](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case4-tgo.md)
-	1. TGO 鲲鹏会的历史与现状
-	1. TGO 鲲鹏会的社区治理
+1. [技術リーダーのコミュニティ「TGO KUNPENG SOCIETY(TGO 鲲鹏会)」の運営](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case4-tgo.md)
+	1. TGO 鲲鹏会の歴史と現状
+	1. TGO 鲲鹏会のコミュニティ・ガバナンス
 
-1. [昇腾：“以赛促兴”’，推动开发者教育](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case5-HW-ascend.md)
-	1. 昇腾AI “学练-训-赛”全周期赋能开发者成长
-	1. 昇腾AI 创新大赛的赛事设计
-	1. 昇腾AI 的“以赛促兴”成果
+1. [開発者教育を推進する昇腾AI](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case5-HW-ascend.md)
+	1. 昇腾AI「学習-育成-コンテスト」は、全サイクルで開発者の成長を後押しする。
+	1. 昇腾AI イノベーションコンペティションのイベントデザイン
+	1. 昇腾AIの「成長競争」実績
 
-1. [蚂蚁集团 OSPO:让开源成为企业技术增长新动力](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case6-ant-ospo.md)
-	1. 蚂蚁集团开源办公室的成立与发展
-	1. 蚂蚁集团开源办公室的探索与实践
-	1. 蚂蚁集团开源办公室的工作成效
-	1. 蚂蚁开源的未来展望
+1. [アント・グループOSPO：オープンソースを企業技術成長の新たな原動力に](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case6-ant-ospo.md)
+	1. アント・グループOSPOの設立と発展
+	1. アント・グループOSPOの探索と実践
+	1. アント・グループOSPOの仕事の有効性
+	1. アント・グループオープンソースの将来展望
 
-1. [全球云计算领导者亚马逊云科技的本土化开发者社区建设](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case7-aws-communitybuilding.md)
-	1. 亚马逊云科技中文开发者社区的机遇与挑战
-	1. 亚马逊云科技开发者社区官网发展策略
-	1. 亚马逊云科技开发者社区官网建设成果
+1. [世界的なクラウドコンピューティングリーダーAmazon CloudTechの地域開発者コミュニティ構築](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case7-aws-communitybuilding.md)
+	1. アマゾンクラウドテクノロジー中国開発者コミュニティのチャンスと課題
+	1. アマゾンクラウドテクノロジー開発者コミュニティ公式サイト開発戦略
+	1. アマゾンクラウドテクノロジー開発者コミュニティ公式サイト構築実績
 
-1. [社区驱动，构筑 PingCAP 的全球开源生态与商业增长](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case8-tidb-globalization.md)
-	1. 开源社区成功： TiDB 增长飞轮
-	1. 商业化探索： DevRel 助力企业实现 SLG + PLG 策略
-	1. 扬帆出海：全球化的产品 + 本土化的社区
+1. [コミュニティ主導、PingCAPのグローバルオープンソースエコロジー構築とビジネス成長](https://github.com/segmentfault/china-devrel-report/blob/main/china-devrel-report-23/Part5/case8-tidb-globalization.md)
+	1. オープンソースコミュニティの成功：TiDB Growth Flywheel
+	1. 商業化の探求：DevRelは企業のSLG＋PLG戦略の実現を可能にする
+	1. 大海原への船出：グローバル化された製品＋ローカル化されたコミュニティ
