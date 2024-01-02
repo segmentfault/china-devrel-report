@@ -6,6 +6,12 @@
 
 希望这些研究可以帮助从业者更好地明确工作目标，获得职业提升；也能够帮助企业管理者厘清开发者业务发展的方向，提供价值参考；进而推动更多企业积极参与开发者生态建设，以健康可持续的社区赋能业务高质量增长。
 
+中国情報通信研究院が発表した「中国デジタル経済発展研究報告（2023年）」によると、2022年、中国のデジタル経済規模は50.2兆元に達し、11年連続で同期間のGDP名目成長率を大幅に上回り、デジタル経済がGDPに占める割合は、国民経済における第二次産業の割合と同じ41.5％に達した。 デジタル時代の波は本格的に到来した。 製造業からサービス業、教育から医療に至るまで、伝統的なビジネスモデルや業務プロセスはデジタル化によって再定義されつつあり、企業はクラウド化を進め、クラウド・コンピューティング、ビッグデータ、人工知能などの最新技術を導入することで、効率性の向上、コスト削減、新たな市場機会の開拓を図っている。 このプロセスでは、ますます専門化する大規模な開発者コミュニティが重要な役割を果たしている。 彼らは技術革新を推進し、ビジネスをアップグレードし、競争力を維持する上で重要な力となっており、アプリケーション開発、データ処理、人工知能、クラウドコンピューティングの分野を問わず、デジタルトランスフォーメーションに不可欠なサポートを提供している。
+
+同時に、開発者をコア・ユーザーまたは顧客とする企業グループが急速に台頭しており、彼らが提供するクラウド・コンピューティング・サービスと基本ソフトウェアは、近代的なITインフラを構築するための基礎となっている。 **デベロッパー・リレーションズ（DevRel）**も、企業によってますます重視されるようになっている。 しかし、比較的新しい垂直セクターであるため、デベロッパーリレーションズの概念に関する業界内のコンセンサスは得られていない。 本ホワイトペーパーを通じて、デベロッパーリレーションズに関する基本的な理解を業界に定着させ、さらに理解を深める一助となれば幸いである。 我々は、様々な規模や業態の企業におけるデベロッパー・リレーションズの実務家を調査し、彼らの日常業務や直面している課題、将来に対する見解を理解した。 さまざまなポジションのコンピテンシーモデルを分析し、業界のケーススタディを収集し、デベロッパー・リレーションズの定義を試みた。
+
+また、より多くの企業がデベロッパーエコシステムの構築に積極的に参加することで、健全で持続可能なコミュニティと質の高いビジネスの成長を促進することを期待している。
+
 The "China Digital Economy Development Research Report (2023)", published by the China Academy of Information and Communications Technology (CAICT), reveals that in 2022, China's digital economy soared to an impressive 50.2 trillion yuan. This marks the eleventh consecutive year where the digital economy's growth significantly outstripped the nominal GDP growth rate, accounting for 41.5% of the GDP. This figure is on par with the contribution of the secondary industry to the national economy, underscoring the digital revolution's reach. The digital age is now in full swing, transforming everything from manufacturing to services, and from education to healthcare. Traditional business models and operational processes are undergoing a radical shift towards digitalization. Enterprises are increasingly adopting cloud computing, big data, and artificial intelligence, not only to boost efficiency and reduce costs but also to tap into new market opportunities.
 
 A pivotal element in this transformation is the burgeoning and increasingly specialized developer community. These developers are at the forefront of driving technological innovation, spearheading business upgrades, and sustaining competitive edge. They provide indispensable support in various domains of digital transformation, including application software development, data processing, artificial intelligence, and cloud computing.
