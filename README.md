@@ -1,4 +1,4 @@
-# 👋 Welcome to the China DevRel Report Repo
+# 👋 Welcome to the China DevRel Report （日本語版）
 
 中国デベロッパーリレーションズレポートは、SegmentFaultチームが毎年行っている調査である。
 
