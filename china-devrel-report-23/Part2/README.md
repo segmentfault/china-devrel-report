@@ -92,9 +92,9 @@
 
 #### 3.1.1 开发者体验的定义
 
-根据 Kenneth Auchenberg 在 Developer Experience Infrastructure （DXI） 一文中的定义（原文链接：https://kenneth.io/post/developer-experience-infrastructure-dxi），开发者体验是在开发者与你的产品或服务互动的整个生命周期中提供给开发者的全面体验。
+根据 Kenneth Auchenberg 在 Developer Experience Infrastructure （DXI） 一文中的定义（原文链接：[https://kenneth.io/post/developer-experience-infrastructure-dxi](https://kenneth.io/post/developer-experience-infrastructure-dxi)），开发者体验是在开发者与你的产品或服务互动的整个生命周期中提供给开发者的全面体验。
 
-具体来说，这一体验涵盖了一系列的内容，此处我们引用了此前陈梓立（tison）在其文章夜天之书 \#64 开发者体验的基础设施中的总结（原文链接：https://mp.weixin.qq.com/s/u9t-bP2lOxWOqqM6Qz79JQ）：
+具体来说，这一体验涵盖了一系列的内容，此处我们引用了此前陈梓立（tison）在其文章夜天之书 \#64 开发者体验的基础设施中的总结（原文链接：[https://mp.weixin.qq.com/s/u9t-bP2lOxWOqqM6Qz79JQ](https://mp.weixin.qq.com/s/u9t-bP2lOxWOqqM6Qz79JQ)）：
 
 1. **产品体验**
    1. Onboarding：上船体验，判断是否应该尝试这个产品。例如，我正在找一个消息队列的方案，从 Apache Pulsar 的官方网站上看到它是一个云原生分布式的消息平台，再从它对消息概念的定义判断是否符合我的生产要求。
